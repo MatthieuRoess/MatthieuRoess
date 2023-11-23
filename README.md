@@ -26,13 +26,13 @@ Je suis actuellement à la recherche d'une alternance dans le domaine du dévelo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MatthieuRoess&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuRoess&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuRoess&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuRoess&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=MatthieuRoess&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ## 👯 Ouvert à la collaboration
 
 Je suis ouvert à la collaboration sur des projets intéressants et à l'apprentissage de nouvelles technologies. Si vous avez des idées ou des opportunités, n'hésitez pas à me contacter !
 
-[![](https://visitcount.itsvg.in/api?id=MatthieuRoess&icon=2&color=6)](https://visitcount.itsvg.in)
 ---
 
 
