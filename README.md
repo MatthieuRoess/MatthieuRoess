@@ -8,11 +8,11 @@ Je suis Matthieu Roess, un étudiant en informatique passionné par le développ
 
 ## 🚀 Compétences
 
-- 💻 Langages de programmation : PHP; HTML, CSS, JS, JAVA, SQL, C#
+- 💻 Langages de programmation : PHP, HTML, CSS, JS, JAVA, SQL, C#
 
 ## 🌱 Projets en cours
 
-- 🔍 https://github.com/MatthieuRoess/projetAnnonceEmplois : Création d'un site d'offre d'emplois en PHP avec une API CRUD.
+- 🔍 https://github.com/MatthieuRoess/projetAnnonceEmplois : Création d'un site d'offre d'emploi en PHP avec une API CRUD.
 - 🤖 https://github.com/MatthieuRoess/PixelSword : Création d'un jeu en java avec libGDX.
 
 ## 🔎 À la recherche d'une alternance
