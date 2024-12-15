@@ -6,11 +6,6 @@ Je suis Matthieu Roess, un étudiant en informatique passionné par le développ
 - 💼 Alternant chez [bonjour.fun](https://bonjour.fun)
 - 🏫 Actuellement étudiant en informatique à Epitech Strasbourg.
 
-## 🌱 Projets en cours
-
-- 🔍 https://github.com/MatthieuRoess/projetAnnonceEmplois : Création d'un site d'offre d'emploi en PHP avec une API CRUD.
-- 🤖 https://github.com/MatthieuRoess/PixelSword : Création d'un jeu en java avec libGDX.
-
 ## 🌐 Socials:
 
 - 📧 Email : matthieuroess1@gmail.com
@@ -25,11 +20,5 @@ Je suis Matthieu Roess, un étudiant en informatique passionné par le développ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuRoess&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=MatthieuRoess&icon=2&color=6)](https://visitcount.itsvg.in)
 
-## 👯 Ouvert à la collaboration
-
-Je suis ouvert à la collaboration sur des projets intéressants et à l'apprentissage de nouvelles technologies. Si vous avez des idées ou des opportunités, n'hésitez pas à me contacter !
-
----
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
