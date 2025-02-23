@@ -1,6 +1,10 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Je suis Matthieu Roess, un étudiant en informatique passionné par le développement web.
+Développeur Fullstack | Étudiant en Master Architecte Logiciel à EPITECH
+
+Passionné par le développement web, j’ai acquis une première expérience d’un an en tant que développeur fullstack chez Bonjour.fun, une startup spécialisée dans les marketplaces dédiées au tourisme. J’y ai contribué au développement de nouvelles fonctionnalités, à la résolution de bugs et à la gestion des déploiements.
+
+Actuellement en Master d’Architecture Logicielle à EPITECH, je suis à la recherche d’une alternance jusqu’en septembre 2026 pour approfondir mes compétences en conception logicielle, développement web et architecture d’applications.
 
 ## 🎓 Formation
 - 💼 Alternant chez [bonjour.fun](https://bonjour.fun)
